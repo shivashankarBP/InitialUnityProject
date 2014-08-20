@@ -11,5 +11,6 @@ public class CubeHandler : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		print("");
+		//new line added 
 	}
 }
